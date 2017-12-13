@@ -1,0 +1,17 @@
+﻿  main.cpp
+f:\git_projects\testengine\render3d\render3d\render3d\mathf.h(24): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+f:\git_projects\testengine\render3d\render3d\render3d\mathf.h(57): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(39): warning C4018: “<”: 有符号/无符号不匹配
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(48): warning C4018: “<”: 有符号/无符号不匹配
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(56): warning C4018: “<”: 有符号/无符号不匹配
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(66): warning C4018: “<”: 有符号/无符号不匹配
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(126): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(364): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(385): warning C4018: “<”: 有符号/无符号不匹配
+f:\git_projects\testengine\render3d\render3d\render3d\device.h(535): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\main.cpp(72): warning C4244: “=”: 从“unsigned long”转换到“float”，可能丢失数据
+f:\git_projects\testengine\render3d\render3d\render3d\main.cpp(88): warning C4101: “hdc”: 未引用的局部变量
+f:\git_projects\testengine\render3d\render3d\render3d\main.cpp(87): warning C4101: “ps”: 未引用的局部变量
+  Render3D.vcxproj -> F:\GIT_PROJECTS\testEngine\Render3d\Render3D\Debug\Render3D.exe
+  Render3D.vcxproj -> F:\GIT_PROJECTS\testEngine\Render3d\Render3D\Debug\Render3D.pdb (Partial PDB)
